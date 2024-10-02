@@ -1,0 +1,6 @@
+This is the first line.
+The answer is 33.
+Python file handling is Great!
+This line is appended.
+Another appended line with number 73.
+Last appended line.
